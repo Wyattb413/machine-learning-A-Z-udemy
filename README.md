@@ -15,6 +15,7 @@
 Lecture Topic | Link
 --- | ---
 **SECTION 2** | [**Section 2**](#section-2)
+Importing the Dataset | [Lecture 10](#section-2-lecture-10)
 
 
 <!-- ################################################################################################################ -->
@@ -23,4 +24,8 @@ Lecture Topic | Link
 
 ## SECTION 2
 
-### Section 2 Lecture 9
+### Section 2 Lecture 10
+
+- **NOTE** - Python indexes start at 0, while R indexes start at 1
+- **Matrix of Features** - Independant variables
+- **Dependent Variable Vector** - Dependant variables
